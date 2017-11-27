@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\Banka\Banka\bin\Debug\Banka.exe.config
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.Form1.resources
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Banka\Banka\bin\Debug\Banka.exe
+C:\Users\User\Desktop\Banka\Banka\bin\Debug\Banka.pdb
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.exe
+C:\Users\User\Desktop\Banka\Banka\obj\Debug\Banka.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\bin\Debug\Banka.exe.config
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.exe
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\bin\Debug\Banka.exe
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\bin\Debug\Banka.pdb
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.csprojResolveAssemblyReference.cache
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.Form1.resources
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.Properties.Resources.resources
+E:\ders notları\2.sınıf\2.dönem\Veri Yapıları\veriyapıları ödev\Ödev\Banka\Banka\obj\Debug\Banka.csproj.GenerateResource.Cache
